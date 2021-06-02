@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+_Course in html completed_
+
+**Interested in app development**
+__using flutter__
